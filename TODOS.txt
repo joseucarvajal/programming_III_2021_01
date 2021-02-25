@@ -1,4 +1,4 @@
-=============================== Feb, 19, 2021 ===============================
+=============================== Feb, 21, 2021 ===============================
 Create new project
 	Sales
 		classes:
@@ -26,4 +26,16 @@ Create new project
 		1. Individual
 		2. Deadline: Feb 19. 24:00 PM
 		3. New gitHub project "sales-system"
-				
+
+=============================== Mar, 02, 2021 ===============================
+New requirements for the Sales systems
+	Sales systems reports:
+		1. Who's the seller (sales man name), who has sold the cheapest product.
+		2. Products price average.
+		3. How many unit of the product has been sold.
+		4. What's the most expensive product.
+
+	Constraints:
+		1. Individual
+		2. A new Github project must be created, named: "sales-system-2"
+		3. Application working screenshots must be attached. A single screenshot for any new requirement.
