@@ -39,3 +39,4 @@ New requirements for the Sales systems
 		1. Individual
 		2. A new Github project must be created, named: "sales-system-2"
 		3. Application working screenshots must be attached. A single screenshot for any new requirement.
+		4. Arrays must be applied to code the solution.
