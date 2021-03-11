@@ -5,9 +5,9 @@ namespace University
 {
     class Program
     {
-        static void Main(string[] args)
+        static void MainUniversity(string[] args)
         {
-            Faculty faculty = new Faculty();
+            FacultyList faculty = new FacultyList();
 
             Student e1 = new Student();
             e1.Name = "Pepito 1";

@@ -7,5 +7,7 @@
 
   <ItemGroup>
     <Folder Include="University\" />
+    <Folder Include="SalesSystem\" />
+    <Folder Include="Recursion\" />
   </ItemGroup>
 </Project>

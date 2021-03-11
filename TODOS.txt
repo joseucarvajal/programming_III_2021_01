@@ -40,3 +40,59 @@ New requirements for the Sales systems
 		2. A new Github project must be created, named: "sales-system-2"
 		3. Application working screenshots must be attached. A single screenshot for any new requirement.
 		4. Arrays must be applied to code the solution.
+
+=============================== Mar, 24, 2021 ===============================
+Create a new project in GitHub named: "recursion-practice"
+The following exercises should be solved:
+
+Exercises taken from: https://www.w3resource.com/c-programming-exercises/recursion/index.php
+
+1. Write a program in C# to calculate the sum of numbers from 1 to n using recursion. Go to the editor
+Test Data : 
+Input the last number of the range starting from 1 : 5 
+Expected Output :
+
+The sum of numbers from 1 to 5 : 
+15
+
+2. Write a program in C# to find the sum of digits of a number using recursion. Go to the editor
+Test Data : 
+Input any number to find sum of digits: 25 
+Expected Output :
+
+The Sum of digits of 25 = 7 
+
+3. Write a program in C to check a number is a prime number or not using recursion. Go to the editor
+Test Data : 
+Input any positive number : 7 
+Expected Output :
+
+The number 7 is a prime number.   
+
+4. Spiderman is capable to jump one or two buildings
+
+
+0				|	|	|	|
+Spiderman		b1	b2	b3	b4
+
+Spider could jump to b1, or b2. Once Spiderman has jumped to the b2, he could jump to the b3 or b4 buildings. 
+Spiderman is always able to jump 1 or 2 buildings.
+How many ways has Spiderman to go up n buildings.
+
+(e.g.) 
+
+input
+n = 3
+
+0				|	|	|
+Spiderman		b1	b2	b3
+
+output
+way 1 (b1, b3)
+way 2 (b1, b2, b3)
+way 3 (b2, b3)
+
+Answer: 3 ways.
+
+
+
