@@ -98,6 +98,13 @@ New requirements for the Sales systems
 		1. These exercises must be solved individually.
 
 
+=============================== Apr, Fri, 23th, 2021 ===============================
+	1. Create a new project in GitHub named: "university-binary-tree"
+	2. Create all of the nodes we saw in class
+	3. Attach screenshots (png, jpg):
+		3.1. code class (all of them)
+		3.2. Program.cs: displaying all of the objects
+		3.3. Console with results (salary sum)
 
 ------------ Final grades   -----
 April 7, 14,
