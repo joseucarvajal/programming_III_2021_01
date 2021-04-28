@@ -106,7 +106,7 @@ New requirements for the Sales systems
 		3.2. Program.cs: displaying all of the objects
 		3.3. Console with results (salary sum)
 		
-=============================== May, Wed, 19th, 2021 ===============================
+=============================== May, Wed, 12th, 2021 ===============================
 	1. Create a new project in GitHub named: "university-binary-tree-v2"
 	2. Exercises:
 		2.1. Get the longest salary (without including "the principal".
